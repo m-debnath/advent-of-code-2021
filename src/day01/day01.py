@@ -1,8 +1,8 @@
 import os
 
-MODULE     ="day01"
-INPUT_FILE ="puzzle.txt"
-INPUT_DIR  ="input"
+MODULE     = "day01"
+INPUT_FILE = "puzzle.txt"
+INPUT_DIR  = "input"
 
 depth_list  = []
 depth_index = 0
