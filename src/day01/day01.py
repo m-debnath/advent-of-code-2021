@@ -11,7 +11,6 @@ with open(os.path.join(os.getcwd(), INPUT_DIR + "/" + MODULE, INPUT_FILE), "r") 
     for line in f:
         depth_list.append(int(line))
 
-
 for index, depth in enumerate(depth_list):
     if index > 0:
         if depth > depth_list[index - 1]:
