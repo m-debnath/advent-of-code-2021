@@ -5,7 +5,7 @@ MODULE     = "day05"
 INPUT_FILE = "puzzle.txt"
 INPUT_DIR  = "input"
 
-vent_lines        = []
+vent_lines       = []
 max_coordinate   = -1
 limit_coordinate = -1
 
